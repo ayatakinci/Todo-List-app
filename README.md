@@ -1,13 +1,15 @@
-# Todo-List-app
+# ToDo-List
+
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
-Features
-1)Add new task
-2)Mark task as completed / uncompleted
-3)Delete single task
-4)Access THE COMPLETED/ COMPLETED/ALL TASKS
+### Features
+* Add new task
+* Mark task as completed / uncompleted
+* Delete single task
+* Access THE COMPLETED/ COMPLETED/ALL TASKS
 
-Technologies used:
-HTML
-CSS
-Vanilla JavaScript
+
+### Technologies used:
+* HTML
+* CSS
+* Vanilla JavaScript
